@@ -2,8 +2,8 @@
 ### Why I like to code
 
 ```
-- My dad
-- I enjoy my code working
-- I enjoy playing games
-- I will enjoy making bank
+- My dad, gotta continue the family legacy.
+- I enjoy my code working.
+- I enjoy playing games.
+- I will enjoy making bank.
 ```
