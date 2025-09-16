@@ -1,7 +1,7 @@
 ## Welcome to Yotam's Website
 ### Why I like to code
 
-```Why I like to code
+```
 - My dad
 - I enjoy my code working
 - I enjoy playing games
